@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Full stack programmer but mainly dedicated to front end
+
 ![image](https://github.com/user-attachments/assets/2ace3343-633e-437e-8a29-c9aaaa0336e8)
 ![image](https://github.com/user-attachments/assets/811338e2-44fd-4f4f-857f-c52a9fd8e8ed)
 ![image](https://github.com/user-attachments/assets/229bf634-9297-4dcb-b0f7-1ac8fda84ffc)
