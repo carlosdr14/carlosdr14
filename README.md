@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Full stack programmer but mainly dedicated to front end
+![image](https://github.com/user-attachments/assets/fd6b5f2f-20cc-4321-999f-f8d3527c9b91)
+
